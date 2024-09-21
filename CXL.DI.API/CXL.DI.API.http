@@ -1,0 +1,6 @@
+@CXL.DI.API_HostAddress = http://localhost:5020
+
+GET {{CXL.DI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
